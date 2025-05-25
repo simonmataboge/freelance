@@ -1,0 +1,155 @@
+﻿
+	.header
+{
+	margin-top:50px;
+	height:70px;
+	position: relative;
+}
+.header img
+{
+	width:70px;
+	height:50px;
+	margin-top:5px;
+	margin-left:50px;
+}
+.menu a
+{
+	margin:px;
+	margin-top:0px;
+	font-size:16px;
+	color:black;
+	padding:8px;
+	border-radius:3px;
+	
+}
+.menu a:hover
+{
+	background-color: #666666;
+	padding:8px;
+	border-radius:3px;
+}
+.header h2 
+{
+	margin-left:130px;
+	margin-top:-45px;
+}
+.menu
+{
+	margin-left:800px;
+	margin-top:-30px;
+	width:500px;
+	position: relative;
+}
+.btn
+{
+	background-color:blue;
+}
+.dropdown .btn
+{
+	margin-left:500px;
+	margin-top:-40px;
+	background-color:blue;
+}
+.dropdown1 .btn
+{
+	margin-left:300px;
+	margin-top:-38px;
+	background-color:blue;
+}
+h1
+{
+	color:black;
+	text-align:center;
+	margin-top:20px;
+	margin-left:600px;
+	width:40%;
+	font-size:60px;
+	font-family:Embassy BT;
+	border-bottom: 5px solid blue;
+	padding: 15px 10px;
+	list-style: none;	
+}
+
+/*----testimonials-------*/
+.testimonials
+{
+	margin-top:50px;	
+}
+.testimonial-containery
+{
+	margin-left:100px;
+	margin-top:20px;
+	width:320px;
+}
+
+.testimonial-containery img
+{
+	width:320px;
+	height:300px;
+}
+.testimonial-content
+{
+	margin-left:50px;
+	padding:10px;
+	background-color:blue;
+	color:white;
+	width:320px;
+	text-align:center;
+}
+.sub-content
+{
+	margin-left:520px;
+	margin-top:-450px;
+	width:670px;
+}
+ul
+{
+	background-color:#CCCCCC;
+	padding:16px;
+	width:550px;
+}
+
+/*--Footer---*/
+.footer
+{
+	background-color:black;
+	margin-top:50px;
+	color: #CCCCCC;
+	width:100%;
+	padding:10px;
+}
+.about-footer
+{
+	margin-left:100px;
+	width:400px;
+}
+.websites
+{
+	margin-left:550px;
+	margin-top:-130px;
+}
+.packages
+{
+	margin-left:820px;
+	margin-top:-165px;
+}
+.specialized
+{
+	margin-left:1090px;
+	margin-top:-165px;
+}
+.footer h4
+{
+	color:white;
+}
+h5
+{
+	margin-left:10px;
+	font-weight:lighter;
+}
+.copyright
+{
+	
+	padding:10px;
+	background-color:black;
+}
